@@ -1,2 +1,14 @@
-# ASDT_1 Repository
-This repository is for the ASDT_1 exercise.
+# About Me
+
+## Personal Information
+- **Name**: [Abegia Bekele]
+- **Country of Origin**: [Ethiopia]
+
+## IT Interests
+- Artificial Intelligence
+- Web Development
+- Cybersecurity
+
+## Preferred Programming Languages
+- Python
+- C++
